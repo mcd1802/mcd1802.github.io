@@ -13,13 +13,13 @@ body {
   color:black;
 }
 .author {
-  color: pink;
+  color: #a73f2e;
   text-shadow: 2px 2px 10px rgb(64, 61, 226), -2px -2px 10px rgb(64, 61, 226), 3px 3px 8px rgb(100,200,240);
 }
 .author-position {
   color:#a12853;
   font-weight: bold;
-  text-shadow: 2px 2px 4px rgb(19, 2, 255), -1px -1px 5px rgb(213, 230, 221);
+  text-shadow: 2px 2px 4px rgb(42 38 107), -1px -1px 5px rgb(213 230 221);
 }
 header,
 aside {
