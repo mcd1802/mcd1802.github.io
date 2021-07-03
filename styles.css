@@ -193,6 +193,7 @@ header.class{
 form {
   margin: 50px auto;
   width: 90%;
+
 }
 
 .form-item {
@@ -267,6 +268,9 @@ form {
   aside,
   section {
     margin: 10px;
+  }
+  .form-item {
+  flex-direction: column;
   }
 }
 
